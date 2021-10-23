@@ -301,7 +301,7 @@ Navbar
   transition: var(--transition);
 }
 .show-links {
-  height: 310px;
+  height: 350px;
 }
 .nav-link {
   display: block;
